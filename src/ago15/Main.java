@@ -16,12 +16,14 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Cancion c1 = new Cancion ();
+        /**Cancion c1 = new Cancion ();
         Cancion c2 = new Cancion ();
         c1.titulo = "Close to me";
         c2.titulo = "Cancion 2";
         c1.sonar();
-        c2.sonar();
+        c2.sonar();*/
+        CuentaBancaria cuentaMS = new CuentaBancaria ();
+        
     }
     
 }
